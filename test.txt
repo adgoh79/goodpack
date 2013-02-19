@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-asdioasjodijasoijd
-=======
-this is the changes in the test.txt
-
-baetr
->>>>>>> my summary
+hello this is a new test
